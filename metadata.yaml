@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hendrik_Conscience
     - http://nl.wikipedia.org/wiki/Hendrik_Conscience
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15682#De-Leeuw-van-Vlaanderen--13-Of-de-Slag-der-Gulden-Sporen
 gutenberg_issued: '2005-04-22'
 gutenberg_type: Text
 identifiers:
